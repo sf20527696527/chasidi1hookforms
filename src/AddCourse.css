@@ -1,0 +1,9 @@
+.err-msg {
+    background-color: red;
+}
+
+.add-course-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
